@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiraminair2004&label=Profile%20views&color=0e75b6&style=flat" alt="abhiraminair2004" /> </p>
 
-- 🌱 I’m currently learning **C++, Java, Full Stack Web Development**
+- 🌱 I’m currently learning **C++, Java, Python & Full Stack Web Development**
 
 - 📫 How to reach me **abhiraminairmalu@gmail.com**
 
